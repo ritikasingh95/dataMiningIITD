@@ -1,1 +1,1 @@
-# dataMiningIITD
+# COL 761 DATA MINING
